@@ -1,6 +1,6 @@
 # toogood.co — Landing Page
 
-A modern and responsive landing page for **toogood.co**, developed using **HTML**, **CSS**, and **JavaScript**, enhanced with **GSAP** for animations and **Locomotive Scroll** for smooth scrolling effects. The project is deployed via **GitHub Pages** and demonstrates advanced frontend interaction techniques.
+A modern and responsive landing page of **toogood.co**, developed using **HTML**, **CSS**, and **JavaScript**, enhanced with **GSAP** for animations and **Locomotive Scroll** for smooth scrolling effects. The project is deployed via **GitHub Pages** and demonstrates advanced frontend interaction techniques.
 
 ## 🔗 Live Site
 
@@ -28,3 +28,9 @@ Access the deployed project here: [[https://prakhar057.github.io/toogood.co](htt
 ├── style.css # Custom styles
 ├── script.js # JavaScript logic & animations
 └── README.md # Project documentation
+
+Learning Outcomes:
+-Integration of GSAP with Locomotive Scroll for seamless animations.
+-Development of responsive layouts using pure HTML/CSS.
+-Static website deployment using GitHub Pages.
+-Performance optimization for scroll-heavy animation environments.
