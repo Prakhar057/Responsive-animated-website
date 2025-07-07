@@ -4,7 +4,7 @@ A modern and responsive landing page for **toogood.co**, developed using **HTML*
 
 ## 🔗 Live Site
 
-Access the deployed project here: [https://yourusername.github.io/toogood.co](https://yourusername.github.io/toogood.co)
+Access the deployed project here: [[https://yourusername.github.io/toogood.co](https://prakhar057.github.io/Responsive-animated-website/))]
 
 ## 🛠️ Technologies Used
 
