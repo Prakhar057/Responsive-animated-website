@@ -24,10 +24,10 @@ Access the deployed project here: [[https://prakhar057.github.io/toogood.co](htt
 
 ## 📂 Folder Structure
 
-├── index.html # Main HTML file
-├── style.css # Custom styles
-├── script.js # JavaScript logic & animations
-└── README.md # Project documentation
+- index.html # Main HTML file
+- style.css # Custom styles
+- script.js # JavaScript logic & animations
+- README.md # Project documentation
 
 Learning Outcomes:
 -Integration of GSAP with Locomotive Scroll for seamless animations.
